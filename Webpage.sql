@@ -2157,15 +2157,22 @@ CREATE TABLE `Product` (
 LOCK TABLES `Product` WRITE;
 /*!40000 ALTER TABLE `Product` DISABLE KEYS */;
 INSERT INTO `Product` VALUES
-('03648007','Mainvideo','Namanh','2023-08-02',1,1,12,1,'VietNam','Australia','MIXTAPE - Láº®C LÆ¯ NHÃN NHáº¨Y THEO NHáº C Cá»°C SANG CHáº¢NH Láº I Báº¢O KHÃNG LÃ ÄI | DJ TK','y2mate.com - MIXTAPE LẮC LƯ NHÚN NHẨY THEO NHẠC CỰC SANG CHẢNH LẠI BẢO KHÔNG LÚ ĐI DJ TK_v720P.mp4'),
-('03720818','The Way Of Water','Nam Anh','2023-05-03',20000,25000,100,1,'English','United States','use  3D graphic technology','thewayofwater.mp4'),
-('11116158','Ghost Rider','Trung Anh','2023-04-30',20000,25000,100,1,'English','United States','film of the year','ghostrider.mp4'),
-('13756120','Top Gun','Maverick','2023-05-01',23000,25000,1000,1,'English','United States','Maverick is the best fighting war','topgun.mp4'),
-('17683755','Mainvideo1','Namanh','2023-07-31',1,1,2,1,'VietNam','Vietnam','mainvideo','y2mate.com - MIXTAPE LẮC LƯ NHÚN NHẨY THEO NHẠC CỰC SANG CHẢNH LẠI BẢO KHÔNG LÚ ĐI DJ TK_v720P.mp4'),
-('26264174','Cooking For Kids','Den Vau','2023-04-30',20000,25000,1000,8,'VietNam','Vietnam','Den Vau is a Vietnamese\'s singer , and he have a charity for poor kids , This is a song he want to do it .','cookingforkids.mp4'),
-('36702518','Joker','Joker','2023-05-01',20000,25000,100,1,'English','United States','the sad story','Joker.mp4'),
-('64468031','One Million Like','Den Vau','2023-04-30',20000,250000,1000,1,'VietNam','Vietnam','best beat for your life','onemillionlike.mp4'),
-('88528564','Mainvideo2','Adsfasd','2023-08-07',1,1,1,2,'Spanish','Azerbaijan','asdfasdf','y2mate.com - MIXTAPE LẮC LƯ NHÚN NHẨY THEO NHẠC CỰC SANG CHẢNH LẠI BẢO KHÔNG LÚ ĐI DJ TK_v720P.mp4');
+('03118402','Luon Yeu Doi','Den Vau','2023-08-01',0,0,100,6,'VietNam','Vietnam','Luon Yeu Doi','Đen - Luôn yêu đời ft Cheng (MV).mp4'),
+('06232058','Roi Toi Luon 2','Nal','2023-08-06',0,0,199,6,'VietNam','Barbados','Roi Toi Luon 2','y2mate.com - Rồi Tới Luôn  Nal MV Audio Lyric Official _720p.mp4'),
+('22171282','Loi Nho','Den Vau','2023-07-31',0,0,100,6,'VietNam','Vietnam','Loi Nho','Lối Nhỏ.mp4'),
+('22714170','Roi Toi Luon','Nal','2023-07-31',0,0,190,6,'VietNam','Vietnam','Roi Toi Luon','y2mate.com - Rồi Tới Luôn  Nal MV Audio Lyric Official _720p.mp4'),
+('31161274','Duong Ve Hai Thon','Dat Long Vinh','2023-07-31',0,0,100,6,'VietNam','Vietnam','Duong Ve Hai Thon','Đường Về Hai Thôn (Lofi Ver.) x Đạt Long Vinh ~ Đường về thôn em duyên dáng bên ven sông....mp4'),
+('31257726','Muoi Nam','Den Vau','2023-08-01',0,0,199,6,'VietNam','Vietnam','Muoi Nam','y2mate.com - Đen  Mười Năm ft Ngọc Linh MV Lộn Xộn 3_720p.mp4'),
+('31737467','Cuoi Luon Duoc Khong','Nal','2023-08-06',0,0,100,6,'VietNam','Vietnam','Cuoi Luon Duoc Khong','Cưới Luôn Được Không Remix - YuniBoo x Goctoi Mixer x Đại Mèo - BẢN MIX CĂNG ĐÉT HOT TIK TOK.mp4'),
+('33361237','Xin Ma Ruoc Con Dau','Dieu Kien','2023-08-14',0,0,122,6,'VietNam','Belarus','Xin Ma Ruoc Con Dau','Xin Má Rước Dâu (Lofi Ver.) - Diệu Kiên x Air Media _ Anh Ơi Nắng Mưa Dãi Dầu Về Nhà Xin Má....mp4'),
+('40425286','Mang Tien Ve Cho Me','Den Vau','2023-08-08',0,0,199,6,'VietNam','Vietnam','Mang Tien Ve Cho Me','Mang Tiền Về Cho Mẹ.mp4'),
+('42812633','Nau An Cho Em','Den Vau','2023-08-02',0,0,100,6,'VietNam','Vietnam','Nau an cho em','Nấu ăn cho em.mp4'),
+('51815515','Co Chang Trai Viet Len Cay2','Phan Manh Quynh','2023-08-01',0,0,199,6,'VietNam','Vietnam','Co Chang Trai Viet Len Cay','y2mate.com - Có Chàng Trai Viết Lên Cây  Phan Mạnh Quỳnh  AUDIO LYRIC OFFICIAL_720p.mp4'),
+('56468850','Nhac Bay Phong','Nal','2023-07-30',0,0,199,6,'VietNam','Bahrain','Nhac Bay Phong','y2mate.com - MIXTAPE LẮC LƯ NHÚN NHẨY THEO NHẠC CỰC SANG CHẢNH LẠI BẢO KHÔNG LÚ ĐI DJ TK_v720P.mp4'),
+('58352608','Bai Nay Chill Phet','Den Vau','2023-08-06',0,0,199,6,'VietNam','Vietnam','Bai Nay Chill Phet','y2mate.com - Đen ft MIN  Bài Này Chill Phết MV_720pFH.mp4'),
+('77531186','Nau An Cho Em 2','DenVau','2023-08-07',0,0,12,6,'VietNam','Armenia','Nau An Cho Em 2','Nấu ăn cho em.mp4'),
+('80314031','Co Chang Trai Viet Len Cay','Phan Manh Quynh','2023-08-08',0,0,100,6,'VietNam','Vietnam','Co Chang Trai Viet Len Cay','y2mate.com - Có Chàng Trai Viết Lên Cây  Phan Mạnh Quỳnh  AUDIO LYRIC OFFICIAL_720p.mp4'),
+('88160370','Dua Nhau Di Tron','Den Vau','2023-08-07',0,0,188,6,'VietNam','Vietnam','Dua Nhau Di Tron','y2mate.com - Đen  Đưa Nhau Đi Trốn ft Linh Cáo MV_720pFH.mp4');
 /*!40000 ALTER TABLE `Product` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -2216,7 +2223,7 @@ CREATE TABLE `Superuser` (
 LOCK TABLES `Superuser` WRITE;
 /*!40000 ALTER TABLE `Superuser` DISABLE KEYS */;
 INSERT INTO `Superuser` VALUES
-('superuser','root','0987654321','vubanamanh9999@gmail.com','2023-08-15');
+('superuser','root','0987654321','vubanamanh9999@gmail.com','2023-08-22');
 /*!40000 ALTER TABLE `Superuser` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -2261,4 +2268,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-08-20  7:53:29
+-- Dump completed on 2023-08-22 23:05:08
